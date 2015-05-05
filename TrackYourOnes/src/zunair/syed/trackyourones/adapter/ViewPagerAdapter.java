@@ -1,7 +1,6 @@
 package zunair.syed.trackyourones.adapter;
 
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.drawable;
 import zunair.syed.trackyourones.fragment.ChitChat;
 import zunair.syed.trackyourones.fragment.PeopleChecker;
 import zunair.syed.trackyourones.fragment.Settings;

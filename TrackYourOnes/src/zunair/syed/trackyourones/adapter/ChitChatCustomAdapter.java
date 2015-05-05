@@ -1,19 +1,13 @@
 package zunair.syed.trackyourones.adapter;
 
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.id;
-import zunair.syed.trackyourones.R.layout;
 import zunair.syed.trackyourones.common.Message;
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.content.SharedPreferences.Editor;
-import android.graphics.Bitmap;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 public class ChitChatCustomAdapter extends ArrayAdapter <String> {

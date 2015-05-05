@@ -5,14 +5,7 @@ import java.util.List;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.anim;
-import zunair.syed.trackyourones.R.id;
-import zunair.syed.trackyourones.R.layout;
 import zunair.syed.trackyourones.util.AsyncJsonObj;
 import zunair.syed.trackyourones.util.IASyncExecutable;
 import zunair.syed.trackyourones.util.ServiceHandler;
@@ -22,7 +15,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
-import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;

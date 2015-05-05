@@ -1,15 +1,11 @@
 package zunair.syed.trackyourones.activity;
 
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.id;
-import zunair.syed.trackyourones.R.layout;
 import zunair.syed.trackyourones.adapter.ViewPagerAdapter;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
-import android.util.Log;
 
 public class MainDashboard extends FragmentActivity {
 

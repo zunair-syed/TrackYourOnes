@@ -13,8 +13,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.id;
-import zunair.syed.trackyourones.R.layout;
 import zunair.syed.trackyourones.adapter.ChitChatCustomAdapter;
 import zunair.syed.trackyourones.common.Message;
 import zunair.syed.trackyourones.util.AsyncJsonObj;
@@ -24,7 +22,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;

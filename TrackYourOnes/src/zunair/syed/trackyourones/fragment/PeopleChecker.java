@@ -2,16 +2,12 @@ package zunair.syed.trackyourones.fragment;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import zunair.syed.trackyourones.R;
-import zunair.syed.trackyourones.R.id;
-import zunair.syed.trackyourones.R.layout;
 import zunair.syed.trackyourones.adapter.PeopleCheckerCustomAdapter;
 import zunair.syed.trackyourones.common.Person;
 import zunair.syed.trackyourones.util.AsyncJsonObj;
@@ -28,10 +24,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
-import android.widget.Toast;
 
 
 public class PeopleChecker extends Fragment implements IASyncExecutable {

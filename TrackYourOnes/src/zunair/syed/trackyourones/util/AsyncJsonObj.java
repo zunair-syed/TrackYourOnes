@@ -1,31 +1,10 @@
 package zunair.syed.trackyourones.util;
 
 
-import java.io.ByteArrayOutputStream;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
-import org.apache.http.NameValuePair;
-import org.apache.http.message.BasicNameValuePair;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-
-
-
-
 
 import android.app.ProgressDialog;
-import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.AsyncTask;
-import android.util.Base64;
-import android.util.Log;
-import android.view.View;
-import android.widget.Toast;
+
 
 /**
  * Async task class to get json by making HTTP call
