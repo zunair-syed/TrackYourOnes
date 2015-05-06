@@ -6,7 +6,9 @@ REST architecture backend. MySQL to store data from users, and Php acts as the M
 ###Still In Alpha Mode###
 This app is still in Alpha stage because I need to do a couple of minor bug fixes, and some minor UI changes as well (for example, the colour of the listView object the contains the people info)
 ###Screenshots###
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/pathofantspic1.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/pathofantspic2.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/pathofantspic3.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/pathofantspic4.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot1.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot2.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot3.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot4.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot5.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot6.png" />&nbsp;
