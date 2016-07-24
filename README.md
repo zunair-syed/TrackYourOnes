@@ -6,9 +6,9 @@ REST architecture backend. MySQL to store data from users, and PHP acts as the M
 ###Still In Alpha Mode###
 This app is still in Alpha stage because I need to do a couple of minor bug fixes, and some minor UI changes as well (for example, the colour of the listView object that contains people's info needs to be changed)
 ###Screenshots###
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot1.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot2.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot3.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot4.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot5.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/trackyourones_screenshot6.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot1.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot2.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot3.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot4.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot5.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/old_website/trackyourones_screenshot6.png" />&nbsp;
